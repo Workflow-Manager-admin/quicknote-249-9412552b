@@ -1,0 +1,35 @@
+
+> dev
+> nuxt dev --port 3000 --host 0.0.0.0
+
+[ nuxi ] Nuxt 3.16.0 with Nitro 2.11.6
+
+ 
+              █▀▀▀▀▀▀▀███▀█▀▀▀███▀▀▀▀▀▀▀█
+              █ █▀▀▀█ █▄█▄█▀▄█▄██ █▀▀▀█ █
+              █ █   █ █▄ ▄█▄▄▀▄▄█ █   █ █
+              █ ▀▀▀▀▀ █ ▄▀▄ ▄▀▄▀█ ▀▀▀▀▀ █
+              █▀▀▀▀▀█▀▀▀ ▄ █▀▄█▄▀█▀█▀█▀██
+              █ ▄ ▀▀▄▀▀██ █▄█▄▀█▄▀▀▀▀█ ▀█
+              █▀█▄▀▀▄▀█▀▀▀█ ▀█ ▀█▀ ▀█▀▀ █
+              █ ▄█▀▀ ▀█ ▄▀▀▀█▄▀█▀█▀█ █ ▀█
+              █ █▀▄▄ ▀▄    █▀██ ▀▀▀▀▄▀█▄█
+              █▀▀▀▀▀▀▀█   █▄█▄▄ █▀█   ▀▀█
+              █ █▀▀▀█ █▀▄▀█ ▀█  ▀▀▀  ▀ ▀█
+              █ █   █ █ ▀▄▀▀ ▀█▄▀▄▄▄█ ▄ █
+              █ ▀▀▀▀▀ █ ▀  ▀█▄▀▄▀    ▀▀ █
+              ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+ 
+  ➜ Local:    http://0.0.0.0:3000/
+  ➜ Network:  http://172.17.0.2:3000/ [QR code]
+
+  ➜ DevTools: press Shift + Alt + D in the browser (v2.2.1)
+
+✔ Vite client built in 50ms
+✔ Vite server built in 492ms
+[nitro] ✔ Nuxt Nitro server built in 1184ms
+ℹ Vite client warmed up in 4ms
+[nuxt] ℹ Compiled plugins.server.mjs in 562.39ms
+[nuxt] ℹ Compiled plugins.client.mjs in 888.03ms
+ℹ Vite server warmed up in 884ms
+[nuxt] ℹ Compiled types/plugins.d.ts in 898.81ms
